@@ -125,6 +125,11 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
+hls.js@1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/hls.js/-/hls.js-1.2.5.tgz#f5ae78095754d8f894e2f65b6a4b09c870b7707c"
+  integrity sha512-1xW5PBJcQu2MsQDnqoFtCfaxxJ1hHwJHRThxDtrKRcrltTtSi4A62xgOsey+KK8MTMD6i4w5fcmBBz1U62ihvQ==
+
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
